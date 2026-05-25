@@ -1,3 +1,11 @@
+## 1.0.7
+- updating package versions
+    *  archive: ^3.3.7
+    *  flutter_slidable: ^3.0.0
+    *  share_plus: ^7.0.2
+    *  intl: ^0.18.1
+## 1.0.6+2
+- fix deprecated ShareFiles
 ## 1.0.6+1
 - fix bug my folder
 - controller code refactoring
